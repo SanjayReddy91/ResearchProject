@@ -7,3 +7,5 @@ Used Genetic Algorithm to solve Jigsaw puzzles with square puzzle pieces of vary
 1. Use the Testing.ipynb file to test the code.
 2. Alternatively you can view all the modules and functions used in the genetic algorithm in the genetic.py file from mypackage directory.
 3. Any necessary modules can be added directly to the genetic.py file and then easily imported to work with using Testing.ipynb.
+4. Images to test the working have already been included in mypackage directory.
+5. Set puzzle piece size that divides both dimensions of the image perfectly without any decimals.
